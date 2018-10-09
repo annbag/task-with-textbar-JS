@@ -8,6 +8,8 @@
   .section1 {
    background-color: #4d4dff;
    height: 90vh;  
+   padding: 30px;
+   border: 10px solid #333;
   }
 
   .section2 {
